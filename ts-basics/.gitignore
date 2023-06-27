@@ -1,0 +1,5 @@
+# We do not want to include 
+# the node modules folder
+# This is something that can be
+# downloaded with npm
+node_modules
